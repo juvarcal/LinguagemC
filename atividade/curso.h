@@ -12,4 +12,4 @@ char datainicio [10];
 char datatermino [10];
 char valor [10];
 
-} curso;
+} curso; 

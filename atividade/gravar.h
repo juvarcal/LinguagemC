@@ -34,7 +34,7 @@ criação deve ser feita como ponteiro
     unidade und, *pund;
 
     pcrs = &crs;
-    pund = &und;
+    pund = &und; 
 
 
     

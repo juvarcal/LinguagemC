@@ -11,5 +11,6 @@ void main() {
     soma (v,10);
     maiorValor (v,10);
     menorValor (v,10);
+    ordenar (v,10);
 }
 
